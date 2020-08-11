@@ -12,3 +12,7 @@ Open the browser and run localhost with the the project  (Ex: http://localhost:8
 ## To Run Test
 http://localhost:8080/book_library/index.php/testunit/save_book_details
 
+## To Create DB and Table
+Using phpMyadmin create DB 'book_library'.
+Go to assets/db_def/book_details.txt copy the query and run to create table 'book_details'
+
